@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    padding-top: 5rem;
+    background-color: rgb(242, 197, 152); /* Change background color to Sandy Brown */
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+/* Add more custom styles here */
+
+/* Modify the table heading style */
+h2 {
+    color: rgb(15, 15, 221); /* Change the color of the heading */
+}
+
+/* Add styles for the table content if needed */
