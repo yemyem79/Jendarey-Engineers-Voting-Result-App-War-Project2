@@ -70,7 +70,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>war-voting-result-app-two</finalName>
+        <finalName>votingapp</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
